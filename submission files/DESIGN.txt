@@ -1,0 +1,4 @@
+Authors: Joaquin Carbonell (3146048), Jigarjeet Mannan
+Lab instructor: Dr. Philip Mees
+Lecture instructor: Dr. Philip Mees
+Purpose: Holds all information regarding the design of the PicnicTable Database
